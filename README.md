@@ -2,8 +2,9 @@
 
 A passionate backend developer from Poland
 
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100045729529116)
+- I'm on 3rd year of Computer Science in Wrocław University of Science and Technology
+- 🌱 I’m currently learning C# and Artificial Inteligence
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100045729529116) [e-mail](michalg.312@gmail.com)
 
 
 

@@ -1,7 +1,8 @@
 ### Hi I'm Michal 👋
 
-
-
+A passionate backend developer from Poland
+🌱 I’m currently learning C#
+📫 How to reach me: [Facebook] (https://www.facebook.com/profile.php?id=100045729529116)
 
 
 

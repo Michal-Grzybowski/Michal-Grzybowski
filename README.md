@@ -1,7 +1,7 @@
 ### Hi I'm Michal 👋
 
 A passionate backend developer from Poland
-I'm a third year student of Computer Science in Wrocław University of Science and Technology
+I'm a third year student of Applied Computer Science in Wrocław University of Science and Technology
 
 📫 How to reach me: 
 - [Facebook](https://www.facebook.com/profile.php?id=100045729529116) 

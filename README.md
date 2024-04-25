@@ -5,7 +5,7 @@ I'm a third year student of Applied Computer Science in Wrocław University of S
 
 📫 How to reach me: 
 - e-mail: michalg.312@gmail.com
-- [linkedin](www.linkedin.com/in/michal-grzybowski-a11050279) 
+- [linkedin](https://www.linkedin.com/in/michal-grzybowski-a11050279) 
 
 
 

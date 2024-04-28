@@ -1,7 +1,8 @@
 ### Hi I'm Michal 👋
 
-A passionate backend developer from Poland
-I'm a third year student of Applied Computer Science in Wrocław University of Science and Technology
+Backend developer with 6 years of experience in programming, and 2 years of commercial experience for customers from Poland and international ones, with a strong focus on .Net technologies and SQL.
+I have bachelor degree in Applied computer science.
+Proficient in developing high-performance backend systems while ensuring the availability of critical APIs. Familiarized with concepts: CQRS, EventSourcing, and DDD.
 
 📫 How to reach me: 
 - e-mail: michalg.312@gmail.com

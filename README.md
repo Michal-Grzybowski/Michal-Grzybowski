@@ -8,6 +8,7 @@ I'm a third year student of Applied Computer Science in Wrocław University of S
 - [linkedin](https://www.linkedin.com/in/michal-grzybowski-a11050279) 
 
 My Rodamap:
+
 ![image](https://github.com/Michal-Grzybowski/Michal-Grzybowski/assets/94113760/5d803e74-01f7-4a0d-87b7-644e724d68c4)
 
 
